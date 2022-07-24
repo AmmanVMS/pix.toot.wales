@@ -15,10 +15,6 @@ This repository explains how you can setup your Android Phone to document the Ma
 You can [download the app][pixeldroid] directly or via the F-Droid app.
 Once installed, add the user account.
 
-- Instance: `pix.toot.wales`
-- Username: `ammanvms`[@outlook.com]
-- Password: You can get the password from the Firefox or from Nicco.
-
 [pixeldroid]: https://f-droid.org/en/packages/org.pixeldroid.app/
 
 ### Fedi Foto
@@ -32,6 +28,11 @@ Choose this app if you have an older Android Phone.
 
 You can [download the app][twl] directly or via the F-Droid app.
 Once installed, add the user account.
+
+## Login
+
+Once you have installed any of the apps and you open them,
+you will need this information to log in and post photos:
 
 - Instance: `pix.toot.wales`
 - Username: `ammanvms`[@outlook.com]
