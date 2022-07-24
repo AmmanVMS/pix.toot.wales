@@ -7,21 +7,31 @@ We document the activity in the maker space
 This repository explains how you can setup your Android Phone to document the MakerSpace.
 
 1. Head over to [f-droid.org](https://f-droid.org/en/)
-2. Install the app.
+2. Install the app. You may need to allow that your browser can install apps or navigate to it in the Downloads app.
 3. When installed look for these apps:
 
 ### [PixelDroid][pixeldroid]
 
-You can [download the app][pixeldroid] directly or via the F-Droid app.
+You can [download the app][pixeldroid] directly or via the F-Droid app (recommended).
 Once installed, [add the user account](#add-user-account).
+
+Links:
+- [web page][pixeldroid]
+- [direct download](https://github.com/AmmanVMS/pix.toot.wales/releases/download/v1.0/org.pixeldroid.app_16.apk)
 
 [pixeldroid]: https://f-droid.org/en/packages/org.pixeldroid.app/
 
 ### Fedi Foto
 
-Search for `FediFoto`, see [here](https://search.f-droid.org/?q=fediphoto&lang=en).
+Search for `FediFoto`, see [here](https://f-droid.org/en/packages/com.fediphoto.lineage/).
 You can install this app to post a lot of images fast.
 Once installed, [add the user account](#add-user-account).
+
+Links:
+- [website][ffl]
+- [direct download](https://github.com/AmmanVMS/pix.toot.wales/releases/download/v1.0/com.fediphoto.lineage_63.apk)
+
+[ffl]: 
 
 ### [Twitlatte][twl]
 
@@ -29,6 +39,12 @@ Choose this app if you have an older Android Phone.
 
 You can [download the app][twl] directly or via the F-Droid app.
 Once installed, [add the user account](#add-user-account).
+
+Links:
+- [web page][twl]
+- [direct download](https://github.com/AmmanVMS/pix.toot.wales/releases/download/v1.0/com.github.moko256.twitlatte_32.apk)
+
+[twl]: https://f-droid.org/en/packages/com.github.moko256.twitlatte/
 
 ## Add User Account
 
@@ -39,7 +55,6 @@ you will need this information to log in and post photos:
 - Username: `ammanvms`[@outlook.com]
 - Password: You can get the password from the Firefox or from Nicco.
 
-[twl]: https://f-droid.org/en/packages/com.github.moko256.twitlatte/
 
 ## Embedding the Live Feed
 
