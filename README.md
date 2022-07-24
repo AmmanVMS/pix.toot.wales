@@ -45,6 +45,9 @@ you will need this information to log in and post photos:
 
 TODO
 
+## Related
+
+- [Install MyHackerspace to see the open/closed status of the Amman Valley MakerSpace](https://github.com/AmmanVMS/space.api#readme)
 
 
 
