@@ -1,6 +1,7 @@
-# Amman Valley MakerSpace Documentation on [pix.toot.wales][pix]
+# Amman Valley MakerSpace Documentation on pix.toot.wales
 
-We document the activity in the maker space
+We document the activity in the maker space on [pix.toot.wales][pix].
+You can view this web page [here](https://ammanvms.github.io/pix.toot.wales/).
 
 ## Android Setup
 
