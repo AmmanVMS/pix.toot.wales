@@ -1,9 +1,47 @@
-# [pix.toot.wales/ammanvms][pix]
+# Amman Valley MakerSpace Documentation on [pix.toot.wales][pix]
 
-Using [pix.toot.wales][pix] to publish stories about the maker space
+We document the activity in the maker space
 
+## Android Setup
 
+This repository explains how you can setup your Android Phone to document the MakerSpace.
 
+1. Head over to [f-droid.org](https://f-droid.org/en/)
+2. Install the app.
+3. When installed look for these apps:
+
+### [PixelDroid][pixeldroid]
+
+You can [download the app][pixeldroid] directly or via the F-Droid app.
+Once installed, add the user account.
+
+- Instance: `pix.toot.wales`
+- Username: `ammanvms`[@outlook.com]
+- Password: You can get the password from the Firefox or from Nicco.
+
+[pixeldroid]: https://f-droid.org/en/packages/org.pixeldroid.app/
+
+### Fedi Foto
+
+Search for `FediFoto`, see [here](https://search.f-droid.org/?q=fediphoto&lang=en).
+You can install this app to post a lot of images fast.
+
+### [Twitlatte][twl]
+
+Choose this app if you have an older Android Phone.
+
+You can [download the app][twl] directly or via the F-Droid app.
+Once installed, add the user account.
+
+- Instance: `pix.toot.wales`
+- Username: `ammanvms`[@outlook.com]
+- Password: You can get the password from the Firefox or from Nicco.
+
+[twl]: https://f-droid.org/en/packages/com.github.moko256.twitlatte/
+
+## Embedding the Live Feed
+
+TODO
 
 
 
