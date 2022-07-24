@@ -60,9 +60,10 @@ Links:
 Once you have installed any of the apps and you open them,
 you will need this information to log in and post photos:
 
-- Instance: `pix.toot.wales`
-- Username: `ammanvms`@outlook.com
-- Password: You can get the password from the Firefox or from Nicco.
+1. Instance: `pix.toot.wales`
+2. Username: `ammanvms`@outlook.com  
+    Password: You can get the password from the Firefox or from Nicco.
+3. Click on `Authorize`.
 
 
 ## Embedding the Live Feed
