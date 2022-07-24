@@ -13,7 +13,7 @@ This repository explains how you can setup your Android Phone to document the Ma
 ### [PixelDroid][pixeldroid]
 
 You can [download the app][pixeldroid] directly or via the F-Droid app.
-Once installed, add the user account.
+Once installed, [add the user account](#add-user-account).
 
 [pixeldroid]: https://f-droid.org/en/packages/org.pixeldroid.app/
 
@@ -21,15 +21,16 @@ Once installed, add the user account.
 
 Search for `FediFoto`, see [here](https://search.f-droid.org/?q=fediphoto&lang=en).
 You can install this app to post a lot of images fast.
+Once installed, [add the user account](#add-user-account).
 
 ### [Twitlatte][twl]
 
 Choose this app if you have an older Android Phone.
 
 You can [download the app][twl] directly or via the F-Droid app.
-Once installed, add the user account.
+Once installed, [add the user account](#add-user-account).
 
-## Login
+## Add User Account
 
 Once you have installed any of the apps and you open them,
 you will need this information to log in and post photos:
