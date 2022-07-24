@@ -61,7 +61,7 @@ Once you have installed any of the apps and you open them,
 you will need this information to log in and post photos:
 
 - Instance: `pix.toot.wales`
-- Username: `ammanvms`[@outlook.com]
+- Username: `ammanvms`@outlook.com
 - Password: You can get the password from the Firefox or from Nicco.
 
 
