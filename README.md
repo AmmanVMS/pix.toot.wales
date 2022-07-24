@@ -11,6 +11,8 @@ This repository explains how you can setup your Android Phone to document the Ma
 2. Install the app. You may need to allow that your browser can install apps or navigate to it in the Downloads app.
 3. When installed look for these apps:
 
+If you cannot download and install F-Droid, you may be able to use the direct downloads below.
+
 ### [PixelDroid][pixeldroid]
 
 You can [download the app][pixeldroid] directly or via the F-Droid app (recommended).
