@@ -21,7 +21,7 @@ Links:
 
 [pixeldroid]: https://f-droid.org/en/packages/org.pixeldroid.app/
 
-### Fedi Foto
+### [Fedi Foto][ffl]
 
 Search for `FediFoto`, see [here](https://f-droid.org/en/packages/com.fediphoto.lineage/).
 You can install this app to post a lot of images fast.
@@ -31,7 +31,7 @@ Links:
 - [website][ffl]
 - [direct download](https://github.com/AmmanVMS/pix.toot.wales/releases/download/v1.0/com.fediphoto.lineage_63.apk)
 
-[ffl]: 
+[ffl]: https://f-droid.org/en/packages/com.fediphoto.lineage/
 
 ### [Twitlatte][twl]
 
