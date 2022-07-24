@@ -17,7 +17,7 @@ If you cannot download and install F-Droid, you may be able to use the direct do
 
 ![image of app](https://user-images.githubusercontent.com/564768/180648272-8d3a48e5-1b80-4b92-9a34-04f3b7061ff6.png)
 
-You can [download the app][pixeldroid] directly or via the F-Droid app (recommended).
+You can download [the app][pixeldroid] directly or via the F-Droid app (recommended) by searching for `pixel`.
 Once installed, [add the user account](#add-user-account).
 
 Links:
@@ -46,7 +46,7 @@ Links:
 
 Choose this app if you have an older Android Phone.
 
-You can [download the app][twl] directly or via the F-Droid app.
+You can download [the app][twl] directly or via the F-Droid app by searching for `twitlatte`.
 Once installed, [add the user account](#add-user-account).
 
 Links:
