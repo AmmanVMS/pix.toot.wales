@@ -15,7 +15,7 @@ If you cannot download and install F-Droid, you may be able to use the direct do
 
 ### [PixelDroid][pixeldroid]
 
-![image](https://user-images.githubusercontent.com/564768/180648272-8d3a48e5-1b80-4b92-9a34-04f3b7061ff6.png)
+![image of app](https://user-images.githubusercontent.com/564768/180648272-8d3a48e5-1b80-4b92-9a34-04f3b7061ff6.png)
 
 You can [download the app][pixeldroid] directly or via the F-Droid app (recommended).
 Once installed, [add the user account](#add-user-account).
@@ -28,7 +28,7 @@ Links:
 
 ### [Fedi Foto][ffl]
 
-![image](https://user-images.githubusercontent.com/564768/180648247-07983bcc-832b-4f2b-9aff-bca1b8022f60.png)
+![image of app](https://user-images.githubusercontent.com/564768/180648247-07983bcc-832b-4f2b-9aff-bca1b8022f60.png)
 
 Search for `FediFoto`, see [here](https://f-droid.org/en/packages/com.fediphoto.lineage/).
 You can install this app to post a lot of images fast.
@@ -42,7 +42,7 @@ Links:
 
 ### [Twitlatte][twl]
 
-![image](https://user-images.githubusercontent.com/564768/180648231-9bbcafb8-c677-43a5-aa2a-0bd8b5bcd7c2.png)
+![image of app](https://user-images.githubusercontent.com/564768/180648231-9bbcafb8-c677-43a5-aa2a-0bd8b5bcd7c2.png)
 
 Choose this app if you have an older Android Phone.
 
